@@ -20,6 +20,5 @@ while(coffee > 0) {
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sunsetaftd&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=sunsetaftd&redirect=true)
 
 <!--START_SECTION:waka-->
-          
 <!--END_SECTION:waka-->
 
