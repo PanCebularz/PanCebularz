@@ -8,7 +8,7 @@
 
 ````JavaScript
 while(coffee > 0) {
-  work ++
+  work++;
 }
 ````
 <h2 align="left">:computer: Languages and Tools</h2>
