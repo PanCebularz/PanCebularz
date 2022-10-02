@@ -45,13 +45,13 @@ while(coffee > 0) {
 <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
 
 
-<h4>:open_file_folder: Software and tools</h4>
+<h4>:open_file_folder: Databases</h4>
 <div display="inline-block">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
-<h4>:computer: Databases</h4>
+<h4>:computer: Software and tools</h4>
 
 <div display="inline-block">
 <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
