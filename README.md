@@ -2,9 +2,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F74073&lines=Full-Stack+Web+Developer;UI%2FUX+designer;Always+learning+new+things" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on **planning the project to help LGBT people in Poland**
+- 🔭 I’m currently working on **everything and nothing**
 
-- 🌱 I’m currently learning **React, Node.js, Express.js, Python**
+- 🌱 I’m currently learning **React, Node.js, Express.js, C++**
 
 - ⚡ Fun fact **Works fine on my machine.**
 
