@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **everything and nothing**
 
-- 🌱 I’m currently learning **React, Node.js, Express.js, C++**
+- 🌱 I’m currently improving my React, Node.js & Express.js skills. In my free time I also try learning some game development using C++, C#, Unity & Unreal Engines. Also trying to master algorithms & data structures topic. Turns out it's not as easy as my stupid brain thought it was.
 
 - ⚡ Fun fact **Works fine on my machine.**
 
@@ -30,6 +30,9 @@ while(coffee > 0) {
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
 
 </div>
 
@@ -43,6 +46,9 @@ while(coffee > 0) {
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
+
 
 
 <h4>:open_file_folder: Databases</h4>
